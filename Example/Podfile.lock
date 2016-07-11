@@ -1,0 +1,16 @@
+PODS:
+  - ZMPickerView (0.1.0)
+
+DEPENDENCIES:
+  - ZMPickerView (from `../`)
+
+EXTERNAL SOURCES:
+  ZMPickerView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZMPickerView: 7227db4883b3c4ae79ecb5cef4b5b8f13627f925
+
+PODFILE CHECKSUM: decd84cdeea9cb945a4c369d91f0530c29d2ae02
+
+COCOAPODS: 1.0.1
