@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZMPickerView_Example' do
+  pod 'ZMPickerView', :path => '../'
+
+  target 'ZMPickerView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
